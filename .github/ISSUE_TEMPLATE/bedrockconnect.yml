@@ -1,33 +1,9 @@
 name: BedrockConnect
 description: Create a issue for the BedrockConnect instance
 title: "[BedrockConnect]: "
-body:
+
+body: 
   - type: markdown
-    attributes:
+    attributes: 
       value: |
-        Thanks for taking the time to fill out this bug report!  
-  - type: input
-    attributes:
-      label: Minecraft Bedrock Version
-      description: Which Bedrock Version are YOU currently using to join the instance?
-      placeholder: |
-        Example: 1.20.70
-      validations:
-        required: false
-  - type: input
-    attributes:
-      label: DNS or MCXboxBroadcast?
-      description: Are you using the DNS Server to connect or the Xbox account MCBEFC?
-      placeholder: |
-        Either "DNS" Or "MCBEFC"
-      validations:
-        required: false
-  - type: input
-    attributes:
-      label: (MCBEFC Only) Server Version
-      description: What version does the Minecraft account display to you?
-      placeholder: |
-        Example: 1.20.70
-      validations:
-        required: false
-  
+        Test!
