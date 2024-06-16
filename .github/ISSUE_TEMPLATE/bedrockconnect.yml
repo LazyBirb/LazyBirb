@@ -1,8 +1,9 @@
 name: BedrockConnect
 description: Create a issue to help me fix the instance
 body:
-  - type: markdown
-      value: |
+- type: markdown
+  attributes:
+    value: |
       Hi and thanks for filling this issue out, please make sure to fill everything out so we can fix the problem as fast as possilbe, if you arent sure about something then just add a "-" in the field.
   - type: input
     attributes:
