@@ -1,5 +1,13 @@
-# Public hosted BedrockConnect Instance
-Hello everyone, i've been hosting a [BedrockConnect](https://github.com/Pugmatt/BedrockConnect) Instance with a DNS Service and [MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) for some while and I'm happy for everyone that had made these programs and to you for using it!
+
+# Public hosted BedrockConnect instance
+
+## How do I connect/use it properly?
+
+ - DNS: 45.88.109.66 (Please refer to the original guide [here](https://github.com/Pugmatt/BedrockConnect?tab=readme-ov-file#tutorials), but instead use the 45.88.109.66 IP as your primary DNS Server)
+ - Friends: Add the Xbox user **McBEFC** to your friends and wait a moment, after a while the account adds you back and shows itself playing Minecraft Bedrock, if you join this accounts world, you'll get redirected to my BedrockConnect instance.
+
+## About my instance
+Hello everyone, i've been hosting a [BedrockConnect](https://github.com/Pugmatt/BedrockConnect) Instance with a DNS Service and [MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) ( for some while and I'm happy for everyone that had made these programs and to you for using it!
 
 But sadly nothing is perfect and things can break and crash. So if you find a problem on the BedrockConnect instance of mine, then create a issue on this Repository.
 
@@ -12,7 +20,7 @@ To keep everything organised and my inboxes not overfilled I decided to take the
 - BedrockConnect: [Create a Issue!](https://github.com/LazyBirb/LazyBirb/issues/new/choose) (Fastest response time during work/school hours)
 ### Everything else:
 - Email: webmaster@lazybirbo.de (Checked up to 3 times per day only)
-- Discord: [@LazyBirbo](https://discord.com/users/589383269594693645) (Urgent only)
+- Discord: [@LazyBirbo](https://discord.com/users/589383269594693645) (Last resort method, please really only use it if its important)
  
 
 
