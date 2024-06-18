@@ -7,7 +7,7 @@
  - Friends: Add the Xbox user **McBEFC** to your friends and wait a moment, after a while the account adds you back and shows itself playing Minecraft Bedrock, if you join this accounts world, you'll get redirected to my BedrockConnect instance.
 
 ## About my instance
-Hello everyone, i've been hosting a [BedrockConnect](https://github.com/Pugmatt/BedrockConnect) Instance with a DNS Service and [MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) for some while and I'm happy for everyone that had made these programs and to you for using it!
+Hello everyone, i've been hosting a [BedrockConnect](https://github.com/Pugmatt/BedrockConnect) Instance with a DNS Service and [MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) for some while and I'm thankful for everyone that had made these programs and to you for using it!
 
 But sadly nothing is perfect and things can break and crash. So if you find a problem on the BedrockConnect instance of mine, then create a issue on this Repository.
 
