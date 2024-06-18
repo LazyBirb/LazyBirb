@@ -9,4 +9,4 @@ The Server was scripted to restart every day at 5AM GMT+2 to avoid any problems 
 
 
 ## Still not fixed? Create a issue [HERE!](https://github.com/LazyBirb/LazyBirb/issues/new/choose)
-Something urgent? Message me via Discord: LazyBirbo or by mail: webmaster@lazybirbo.de (E-Mail updated webmaster@lazy-birb.de still works, but only redirects it to the other email, please use the new one!!!)
+Something urgent? Message me via Discord: LazyBirbo or by mail: webmaster@lazybirbo.de (Please dont use webmaster@lazy-birb.de . It still works, but only redirects it to the other email, please use the new one!!!)
