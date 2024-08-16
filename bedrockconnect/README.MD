@@ -12,7 +12,7 @@ Have you checked the status pages? Please check the [Public hosted status page](
 ## How do I connect/use it properly?
 
  - DNS: 45.88.109.66 (Please refer to the original guide [here](https://github.com/Pugmatt/BedrockConnect?tab=readme-ov-file#tutorials), but instead use the 45.88.109.66 IP as your primary DNS Server)
- - ~~ Friends: Add the Xbox user **McBEFC** to your friends and wait a moment, after a while the account adds you back and shows itself playing Minecraft Bedrock, if you join this accounts world, you'll get redirected to my BedrockConnect instance. ~~
+~~- Friends: Add the Xbox user **McBEFC** to your friends and wait a moment, after a while the account adds you back and shows itself playing Minecraft Bedrock, if you join this accounts world, you'll get redirected to my BedrockConnect instance.~~
 ## About my instance
 Hello everyone, i've been hosting a [BedrockConnect](https://github.com/Pugmatt/BedrockConnect) Instance with a DNS Service and [MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) for some while and I'm thankful for everyone that had made these programs and to you for using it!
 
