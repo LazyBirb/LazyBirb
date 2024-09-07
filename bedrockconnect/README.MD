@@ -11,10 +11,10 @@ Have you checked the status pages? Please check the [Public hosted status page](
 
 ## How do I connect/use it properly?
 
-| IP Address | Gamertag | Location | Note |
-| ------------- | ------------- | ------------- |
-| 207.148.1.32 | DEMCBC | Dallas, Texas | No DNS Server! Running MCXboxBroadcast |
-| 45.88.109.66 | McBEFC | Frankfurt am Main, Germany | DNS Server available, running MCXboxBroadcast |
+| IP Address   | Gamertag | Location                   | Notes                                         |
+|--------------|----------|----------------------------|-----------------------------------------------|
+| 45.88.109.66 | McBEFC   | Frankfurt am Main, Germany | DNS Server Available, running MCXboxBroadcast |
+| 207.148.1.32 | DEMCBC   | Dallas, Texas, USA         | NO DNS SERVER, running MCXboxBroadcast        |
 
  - DNS: (Please refer to the original guide [here](https://github.com/Pugmatt/BedrockConnect?tab=readme-ov-file#tutorials), but instead use the IP from the list above as your primary DNS Server)
  - Friends: Add one of the Xbox user to your friends and wait a moment, after a while the account adds you back and shows itself playing Minecraft Bedrock, if you join this accounts world, you'll get redirected to my BedrockConnect instance.
