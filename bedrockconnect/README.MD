@@ -12,6 +12,7 @@ Have you checked the status pages? Please check the [Public hosted status page](
 ## How do I connect/use it properly?
 
 | IP Address | Gamertag | Location | Note |
+| ------------- | ------------- | ------------- |
 | 207.148.1.32 | DEMCBC | Dallas, Texas | No DNS Server! Running MCXboxBroadcast |
 | 45.88.109.66 | McBEFC | Frankfurt am Main, Germany | DNS Server available, running MCXboxBroadcast |
 
