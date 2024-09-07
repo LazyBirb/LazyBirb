@@ -5,7 +5,7 @@
 
 
 ## BedrockConnect is outdated/not responding!
-Have you checked the status pages? Please check the [Public hosted status page](https://bcstatus.xyz/status/bedrock) and [my status page](https://status.lazybirbo.de/status/all) for any downtime!
+Have you checked the status pages? Please check the [Public hosted status page](https://bcstatus.xyz/status/bedrock) for any downtime!
 
 **The Server restart every day at 5AM GMT+2** to avoid any problems with other programs, **BedrockConnect restarts every day at 6AM and 10PM GMT+2** to update itself and the MCXboxBroadcast! 
 
