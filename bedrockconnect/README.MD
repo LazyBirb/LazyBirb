@@ -7,7 +7,7 @@
 ## BedrockConnect is outdated/not responding!
 Have you checked the status pages? Please check the [Public hosted status page](https://bcstatus.xyz/status/bedrock) for any downtime!
 
-**The Server restart every day at 5AM GMT+2** to avoid any problems with other programs, **BedrockConnect restarts every day at 6AM and 10PM GMT+2** to update itself and the MCXboxBroadcast! 
+**The Server restart every day at 6AM GMT+1** to avoid any problems with other programs while updating, **BedrockConnect restarts every day at 12PM, 6PM and 11PM** to update itself and the MCXboxBroadcast! 
 
 ## How do I connect/use it properly?
 
